@@ -1,0 +1,10 @@
+# local package
+-e .
+
+# external requirements
+pandas
+matplotlib
+
+tensorflow
+keras
+scikit-learn
